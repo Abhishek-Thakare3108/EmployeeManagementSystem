@@ -1,0 +1,21 @@
+# Compiled output
+bin/
+target/
+build/
+*.class
+
+# Eclipse / STS
+.settings/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keep tracked (negation rules)
+!src/
+!**/*.java
+!module-info.java
+!README.md
+!.project
+!.classpath
